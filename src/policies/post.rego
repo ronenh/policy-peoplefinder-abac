@@ -2,7 +2,7 @@ package peoplefinder.POST.api.users
 
 default allowed = false
 
-default visible = false
+default visible = true
 
 default enabled = false
 
